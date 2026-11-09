@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -169,7 +169,7 @@
 
     <!-- 01 CONÓCEME -->
     <section>
-        <img src="WhatsApp Image 2026-11-09 at 1.03.11 PM (4)" alt="Fotografía de Emma" class="foto">
+        <img src="WhatsApp Image 2026-11-09 at 1.03.11 PM (4).jpg" alt="Fotografía de Emma" class="foto">
 
         <h2><span class="numero">01.</span> Conóceme</h2>
 
@@ -199,7 +199,7 @@
             el lugar de donde vengo y que forma parte de mi historia.
         </p>
 
-        <img src="WhatsApp Image 2026-11-09 at 1.03.11 PM (6)"
+        <img src="WhatsApp Image 2026-11-09 at 1.03.11 PM (6).jpg"
              alt="Colonia Huitexcalco"
              class="foto">
     </section>
@@ -270,7 +270,7 @@
             <p>Seguir descubriendo cosas nuevas.</p>
         </div>
 
-        <img src="WhatsApp Image 2026-11-09 at 1.03.11 PM (5)"
+        <img src="WhatsApp Image 2026-11-09 at 1.03.11 PM (5).jpg"
              alt="Collage de mis pasatiempos"
              class="collage">
     </section>
@@ -309,7 +309,7 @@
             </li>
         </ul>
 
-        <img src="WhatsApp Image 2026-11-09 at 1.03.11 PM (3)"
+        <img src="WhatsApp Image 2026-11-09 at 1.03.11 PM (3).jpg"
              alt="Mis redes sociales favoritas"
              class="collage">
     </section>
